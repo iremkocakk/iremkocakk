@@ -1,6 +1,6 @@
 [![MasterHead]( https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
 
-<h1 align="center">Hi 👋, I'm irem kocak</h1>
+<h1 align="center">Hi 👋, I'm İrem Koçak</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
